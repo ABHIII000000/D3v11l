@@ -1,9 +1,4 @@
- РЋ@Бa	�0 РА
-Р‘`фИ8УтЬ®
-„ЗPm¶›?ю­†жЬўoЪ–*ЪЌ­x
-ыпѕыпѕыпѕыпѕыпѕыпѕыпѕыпѕыпѕыпѕыпѕы
-Љjh®ЦЪ±оё
-{њm«л†ъбЧњЎЧ›import requests
+import requests
 import json
 import time
 import sys
